@@ -1,2 +1,3 @@
-# maze-solver-turtlebot
-Python code for a turtle-bot that can re-align itself and solve unspecified mazes
+# robotics
+Python code for the following:
+    mazeSolver: Wall follower Turtle-bot that can re-align itself 
