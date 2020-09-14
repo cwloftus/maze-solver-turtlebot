@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="bote_move_pkg" type="bot_move" name="bot_move"  output="screen">
+    </node>
+</launch>
