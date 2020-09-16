@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="odom_subscriber_pkg" type="simple_odom_subscriber" name="odom_subscriber"  output="screen">
+    </node>
+</launch>
