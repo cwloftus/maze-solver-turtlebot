@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="pub_pkg" type="velocity_pub.py" name="velocity_pub_node"  output="screen">
+    </node>
+</launch>
