@@ -1,0 +1,11 @@
+<launch>
+
+  <!-- include file="$(find iri_wam_reproduce_trajectory)/launch/start_service.launch"/ -->
+
+  <node pkg ="unit_4_services"
+        type="robot_arm_demo.py"
+        name="robot_arm_node"
+        output="screen">
+  </node>
+
+</launch>
